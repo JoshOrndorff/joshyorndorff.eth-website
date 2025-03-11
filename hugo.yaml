@@ -213,7 +213,14 @@ params:
 ### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-    main: []
+    main: 
+        - identifier: Old Site
+          name: Old Site
+          url: https://joshyorndorff.com
+          weight: 100
+          params:
+            icon: home
+            newTab: true
 
     social:
         - identifier: github
