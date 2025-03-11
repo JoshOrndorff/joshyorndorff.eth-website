@@ -1,6 +1,7 @@
 +++
 title = "Everything is Weakly Subjective, Even Bitcoin"
 date = "2025-03-04"
+draft = true
 
 tags = [
     "blockchain",
