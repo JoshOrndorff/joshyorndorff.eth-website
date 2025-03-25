@@ -46,7 +46,7 @@ hasCJKLanguage: false
 #         id:
 
 pagination:
-    pagerSize: 3
+    pagerSize: 7
 
 permalinks:
     post: /p/:slug/
