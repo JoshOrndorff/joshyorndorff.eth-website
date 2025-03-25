@@ -7,7 +7,7 @@ tags = [
     "philosophy",
 ]
 categories = []
-image = ""
+image = "cover.jpg"
 +++
 
 Growing up in Northen Ohio, I learned from a young age that the civil war was about human rights and slavery. It was about humans trying to own other humans and white people treating black people like they weren't human. Naturally I was proud to have grown up in the north and identified with the union and considered that "we won" the civil war.
