@@ -1,7 +1,6 @@
 +++
 title = "Everything is Weakly Subjective, Even Bitcoin"
-date = "2025-04-13"
-draft = true
+date = "2025-03-25"
 
 tags = [
     "blockchain",
@@ -12,8 +11,7 @@ tags = [
     "reorg",
 ]
 categories = []
-# Image should be history of bitcoin chain with pizzas silk rd etc on one side and empty boring on other side.
-image = ""
+image = "simpsons-full.png"
 +++
 
 There is a particular kind of plot twist that I really enjoy in fiction. It is when you realize very late in the story that the protagonist (or narrator) has been confused from the beginning about the very nature of the setting in which the story has taken place.
@@ -24,7 +22,7 @@ One of my favorite examples is the [movie Shutter Island](https://en.wikipedia.o
 
 This is analogous to a technical situation that arises in blockchain called a chain reorganization, or "re-org". A re-org happens when a blockchain node realizes that the chain that it thought was real, actually isn't, and it needs to switch to a different chain that is better or more real.
 
-Insert Diagram
+![A blockchain reorganization](re-org.png)
 
 The goal of blockchain is to _eventually_ reach consensus on the history of that chain and decide which of the branches is "real". But of course more stuff is happening all the time, and the chain is constantly growing. Thus the job of reaching consensus is never done but rather ongoing. This is similar to how populations of people come to an understanding of current events and transition them into the realm of history. In the 90s I experienced this process as gossip -> radio gossip -> newspaper news -> Chamber of Commerce publication -> library book. Of course some stuff turned out not to be true or fully true and didn't filter all the way down to library book level.
 
@@ -36,17 +34,17 @@ In the Simpsons Episode, [The Principal and the Pauper](https://simpsons.fandom.
 
 Before the episode, we know that Principle Skinner grew up in Springfield, served briefly in the army, returned home, became principle and nowadays has shenanigans with Bart and the kids. You can imaging his history looking something like the following in terms of a blockchain.
 
-Insert diagram with skinner example
+![Blockchain representation of Principal Skinner's story](simpsons-beginning.png)
 
 The plain blocks indicate that there are probably more details relevant to skinners past that we are not aware of and may eventually fill in as his character is developed more. During the episode we learn of another character, Armen Tamzarianm, who looks like Skinner and grew up as a bad boy in capital city. Tamzarien also joined the army around the same time as Skinner and indeed they met in Viet Nam. So far this is no problem, these details are all compatible with the Skinner we know and love. Indeed we love him more now for having learned more details of his past. We can now imagine Skinner's history like this.
 
-TODO
+![Principal Skinner's story with Armen Tamzarian Backstory filled in and non-conflicting](simpsons-middle.png)
 
-But next we get the bombshell. The real Skinner never returned from Viet Nam. He has been held hostage ever since and only recently returned home. The man who we have known and loved for eight seasons is actually Tamzarien. TODO Scream face emoji. He has been living a lie all this time. The shenanigans that were had with Bart and the kids were with Tamzarian. And now the real Skinner is finally home and the truth is out and we are supposed to try to reorg.
+But next we get the bombshell. The real Skinner never returned from Viet Nam. He has been held hostage ever since and only recently returned home. The man who we have known and loved for eight seasons is actually Tamzarien. 😱 He has been living a lie all this time. The shenanigans that were had with Bart and the kids were with Tamzarian. And now the real Skinner is finally home and the truth is out and we are supposed to try to reorg.
 
-TODO Full Figure
+![Complete Principal and Pauper Block Tree](simpsons-full.png)
 
-The characters in the Simpson's collectively choose to go on living as if the person they have known for decades is the real Skinner. This is despite real evidence (genetics, military records, Tamzarian's confession) of the fraud. Together they coordinate to all agree to continue living the previously understood reality thereby making it effectively "real". It certainly wouldn't work out if only some people went on believing the old truth while some accepted the new. Consensus is critical.
+The characters in the Simpson's collectively choose to go on living as if the person they have known for decades is the real Skinner. This is despite real evidence (genetics, military records, Tamzarian's confession) of the fraud. Together they coordinate to all agree to continue living the previously understood reality thereby making it effectively real. It certainly wouldn't work out if only some people went on believing the old truth while some accepted the new. Consensus is critical.
 
 Just as the Simpson's Characters struggled to accept the new truth, so also did the real life audience. Principal Skinner is third character to speak in the entire Simpsons series, and the first person outside the Simpson family. He is a well loved character and re-writing his history is unpalatable to both the characters in the show and the fans watching at home. The Simpsons wiki notes that the episode is considered "non-canon". The exact same term is used in blockchain to refer to blocks that are not part of the "real" chain or got "orphaned" off.
 
@@ -70,7 +68,7 @@ In blockchain, the entire goal is to **reach consensus on a shared history**. Do
 
 In objective Consensus, anyone can tell which history is real just by looking at the history itself. No need to trust anyone or have any doubts. The most famous example of this is Bitcoin-style proof of work. It requires a lot of real-world energy to produce bitcoin blocks and when they are produced you can tell how much energy it took to create just by looking at it. So if there are two different histories, you just choose the one that took the most energy to create. You don't have to ask any questions to anyone or trust anyone in any way.
 
-TODO Figure
+![Proof of Work blockchains feature objective consensus; The chain with the most work is the real one.](objective.png)
 
 ### Subjective Consensus
 
