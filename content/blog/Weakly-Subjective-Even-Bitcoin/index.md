@@ -90,22 +90,16 @@ Take a moment to consider your favorite story from the history of Bitcoin. Think
 
 Now imagine that one day, maybe tomorrow, or next year, a bitcoin block chain is discovered that has more total proof of work than the chain that most of the nodes and explorers had been tracking. No problem; this is PoW; re-orgs happen. But imagine this chain is a very deep reorg. And the blocks are mostly empty. Someone must have a lot of secret mining power and have been mining this chain for a long time. Now they have revealed it publicly.
 
-TODO Insert Figure with pizza and silk rd and etc on one side, and boring empty on the other.
+![The traditional bitcoin chain that we all know and love and a hypothetical more-total-work fork on the bottom](bitcoin.png)
 
 What do you think would actually happen in this scenario? Don't read on yet. Actually consider it.
 
-I propose that the **new chain would not be accepted despite its higher accumulated work**. We could not give up the history of bitcoin pizza guy. It is too important. We could not give up El Salvador's bitcoin.
+I propose that the **new chain would not be accepted despite its higher accumulated work**. We could not give up the history of bitcoin pizza guy. It is too important. We could not give up El Salvador's bitcoin. We could not give up the Mt Gox.
 
-### Decenting from Most Accumulated Work
+### Bitcoin's Real consensus Mechanism
 
-We know that people are willing to descent from their general principles when it comes to deep re-orgs. A relifious astronomer may know and believe in science and perform it competently in day to day life. If they simultaneously believe that God created the cosmos in 6 days * 24 hours per days, they may not accept scientific evidence to the contrary, thus defecting from the objectivity of science that they claim to profess.
+We saw that people are willing to defect from their general principles when it comes to deep re-orgs. Similarly we may expect bitcoin users to defect from the most-accumulated-work rule when it means they would no longer have those bitcoins they bought last month. And even more so if sticking to the most-accumulated-work means giving up their most cherished moments in history.
 
-Similarly we may expect bitcoin users to defect from the most-accumuluated-work rule when it means they would no longer have those bitcoins they bought last month. And even more so if sticking to the most-accumulated-work means giving up their most charished myths (eg the pizzas).
+Every bitcoin node operator has their own weak subjectivity checkpoint beyond which they would not consider reverting. Just like how every person in a market has their own valuation for a good. Currently bitcoiners are not allowed to talk about this like how puritans were not allowed to talk about sex. But if there ever is a deep re-org, then we will discover how deep they are willing to re-org.
 
 Bitcoin is weakly subjective. Your life is weakly subjective.
-
-Every bitcoin node operator has their own weak subjectivity checkpoint. Where they would not consider reverting past that. Just like how every person in a market has their own valuation for a good. Currently bitcoiners are not allowed to talk about this like how puritans are not allowed to talk about sex. But if there ever is a deep re-org, then we will discover how deep they are willing to re-org.
-
-
-
-
