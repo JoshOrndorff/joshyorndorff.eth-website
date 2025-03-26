@@ -1,10 +1,4 @@
 +++
-# This frontmatter was copied directly from Zola.
-# IDK whether the taxonomies do anything
-# It seems the draft value defaults to false which is what I was expecting.
-# The <!-- more --> in the body definitely did not do the same kind of Summary.
-# But luckily a summary is generated automatically somehow.
-
 title = "Happy Valentine's Day 2025"
 date = "2025-02-14"
 
