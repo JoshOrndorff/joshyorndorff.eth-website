@@ -5,7 +5,7 @@ title = 'Plan to Leave Drupal'
 tags = [
     "Website",
 ]
-categories = []
+categories = [] 
 +++
 
 I've hosted this website on Drupal since 2010. That's almost a decade. Which is like a century in web time scales. But now it is time for a change.
