@@ -11,3 +11,6 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
+
+# Stuff for my drupal extraction scripts
+drupal_extraction/node_modules
