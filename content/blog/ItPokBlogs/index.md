@@ -26,9 +26,9 @@ This blog was written on February 10th 2006 by Sarah. It is just a silly fun pie
 > WAIT!! what? you have a manager? hahaha ohh yeah... forgot to tell you that.
 > ok so here's the nitty gritty:
 > 
-> 1)yes, we have a manger. His name is Anton "get out of my room you pervert" Putra. He works for cheese and pretzels, and the occassional slap on the butt.
+> 1) yes, we have a manger. His name is Anton "get out of my room you pervert" Putra. He works for cheese and pretzels, and the occassional slap on the butt.
 > 
-> 2)well...to be honest, we don't know if he skipped school to have sex. Anton himself doesn't even know. But nonetheless, everyone thinks he does. So I > guess that means he did.
+> 2) well...to be honest, we don't know if he skipped school to have sex. Anton himself doesn't even know. But nonetheless, everyone thinks he does. So I guess that means he did.
 > 
 > 3) NO. None of the "members" of It Pok have sex and we are NOT TAKING APPLICATIONS. so stop sending them.
 > 
@@ -40,7 +40,7 @@ This blog was written on February 10th 2006 by Sarah. It is just a silly fun pie
 
 ## Blog: Josh able to play after life threatening crash?
 
-This blog was written July 12th 2006 by Tyler. Although it authorship is not explicitly noted, I'm 100% sure it is him by the comedic style and the attempt to funnel donations to himself. This one refers to a real life accident in which I broke my right arm while sidewalk surfing. For the record, the accident was serious but was absolutely not life threatening.
+This blog was written July 12th 2006 by Tyler. Although its authorship is not explicitly noted, I'm 100% sure it is him by the comedic style and the attempt to funnel donations to himself. This one refers to a real life accident in which I broke my right arm while sidewalk surfing. For the record, the accident was serious but was absolutely not life threatening.
 
 > We have been flooded with letters of concern about the health of lead "key"-tarist Josh Orndorff. He is in good health and should keep most of his chest hair intact.
 > 
@@ -91,6 +91,7 @@ This one was written by me at an unknown date. IMO it is the least funny of the 
 ![](P1280015.JPG)
 ![](P1280016.JPG)
 ![](P1280020.JPG)
+
 ![](P1280021.JPG)
 ![](P1280022.JPG)
 ![](P1280026.JPG)
