@@ -12,7 +12,7 @@ image = "myth-busters.jpg"
 # description = "Now there is a description"
 +++
 
-There used to be this TV show called [Myth Busters](https://en.wikipedia.org/wiki/MythBusters). I would occasionally watch it and generally liked it. They would take some urban legend or myth, turn it into a hypothesis, and test it out. They would usually build fun stuff and do some experiment design along the way. As a creative person who was taking shop class and could borrow dad's tolls and barn, the show provided some good bit of inspiration.
+There used to be this TV show called [Myth Busters](https://en.wikipedia.org/wiki/MythBusters). I would occasionally watch it and generally liked it. They would take some urban legend or myth, turn it into a hypothesis, and test it out. They would usually build fun stuff and do some experiment design along the way. As a creative person who was taking shop class and could borrow dad's tools and barn, the show provided some good bit of inspiration.
 
 I've often heard a few criticisms of the show that are similar in theme. In my own words they are basically:
 
