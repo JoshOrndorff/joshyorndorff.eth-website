@@ -23,7 +23,7 @@ const http = require('https');
 
 const baseUrl = "https://joshyorndorff.com";
 
-downloadBlog("c41048c0-c2a1-4dad-b208-30edd45ca5d0");
+downloadBlog("dbdba321-0a56-4d89-a2f9-5ffc3460e01b");
 
 async function downloadBlog(uuid) {
 
@@ -45,7 +45,8 @@ async function downloadBlog(uuid) {
 	// * tag ID => the actual tag
 	let photoUrlMap = {};
 	let tagMap = {};
-	for (included of response.included) {
+	try {
+		for (included of response.included) {
 		if (included.type == "file--file") {
 			photoUrlMap[included.id] = baseUrl + included.attributes.uri.url;
 		}
@@ -53,6 +54,10 @@ async function downloadBlog(uuid) {
 			tagMap[included.id] = included.attributes.name;
 		}
 	}
+	} catch (error) {
+		console.log("Post contained neither images nor tags.");
+	}
+	
 	let photos = [];
 	for (photo_data of response.data.relationships.field_photos.data) {
 		// console.log(photo_data);
