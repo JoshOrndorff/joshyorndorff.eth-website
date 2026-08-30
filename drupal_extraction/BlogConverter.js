@@ -1,6 +1,5 @@
 // The goal of this file is to convert a single blog post from my drupal site to
-// a workable format for use in my new hugo site. I will start by narrowly focusing
-// on the Korea trip blog.
+// a workable format for use in my new hugo site.
 //
 // Data to keep:
 // * Title
@@ -15,37 +14,24 @@
 // * Comment hierarchy
 //
 // Got some data about this post using PHPMYADMIN and the node table
-// SELECT * FROM `node` WHERE nid='3178'; 
-//
-// NID: 3178
-// VID: 3192 (IDK what this means, but I see it in the node table)
-// UUID: 20402d1a-4ec4-4259-bc9d-256a0abe55cf
-// Content type: Photo Gallery (machine_name: photo_gallery)
-
+// SELECT * FROM `node` WHERE `type` = "photo_gallery" ORDER BY `nid` ASC;
+// Would be better to do Descending probably
 
 const fetch = require('node-fetch');
-const {existsSync, writeFileSync, mkdir, createWriteStream} = require('fs');
+const {writeFileSync, mkdirSync, createWriteStream} = require('fs');
 const http = require('https');
 
 const baseUrl = "https://joshyorndorff.com";
 
-async function downloadKoreaBlog() {
+downloadBlog("c41048c0-c2a1-4dad-b208-30edd45ca5d0");
+
+async function downloadBlog(uuid) {
 
 	// There are some docs and examples at
 	// https://www.drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/fetching-resources-get
 	// I looked up this node id and uuid up manually. We'll need a better way to automate.
-	const query = 'https://joshyorndorff.com/jsonapi/node/photo_gallery/20402d1a-4ec4-4259-bc9d-256a0abe55cf?include=taxonomy_vocabulary_2,field_photos&fields[taxonomy_term--vocabulary_2]=name&fields[file--file]=uri,url';
+	const query = `https://joshyorndorff.com/jsonapi/node/photo_gallery/${uuid}?include=taxonomy_vocabulary_2,field_photos&fields[taxonomy_term--vocabulary_2]=name&fields[file--file]=uri,url`;
 
-
-
-
-
-
-
-
-
-
-	
 	let response = await fetch(query)
 		.then(response => response.json());
 
@@ -87,13 +73,8 @@ async function downloadKoreaBlog() {
 	// Setup the directory and index file.
 	// Pictures will be downloaded later
 	// https://www.geeksforgeeks.org/node-js/how-to-create-a-directory-using-node-js/
-	await mkdir(title, (error) => {
-      if (error) {
-        console.log(error);
-      } else {
-        console.log("New Directory created successfully !!");
-      }
-    });
+	const dashedTitle = title.replace(/\W+/g, '-');
+	mkdirSync(dashedTitle);
 
 	let contents = `+++
 title = "${title}"
@@ -105,20 +86,20 @@ image = "todo.jpg"
 
 ${body}
 
-Photos:
-
+${photos.length > 0 ? "Photos:\n" : ""}
 `
 	for (photo of photos) {
+		console.log(`Photo Download Started: ${photo.downloadUrl}`);
 		// Download the file from the drupal site
 		// https://stackoverflow.com/a/11944984/4184410
-		const file = createWriteStream(`${title}/${photo.filename}`);
+		const file = createWriteStream(`${dashedTitle}/${photo.filename}`);
 		const request = http.get(photo.downloadUrl, function(response) {
 			response.pipe(file);
 
 			// after download completed close filestream
 			file.on("finish", () => {
 				file.close();
-				console.log("Download Completed");
+				console.log(`Photo Download Completed: ${photo.downloadUrl}`);
 			});
 		});
 
@@ -127,10 +108,7 @@ Photos:
 		contents += `![${photo.alt}](${photo.filename})\n`
 	}
 	
-
-	writeFileSync(`${title}/index.md`, contents);
+	writeFileSync(`${dashedTitle}/index.md`, contents, {flag: "w"});
 
 	
 }
-
-downloadKoreaBlog();
