@@ -22,20 +22,9 @@ const http = require('https');
 
 const baseUrl = "https://joshyorndorff.com";
 
+// MISSING CTY 2017
 uuids = [
-	"48adaf86-7b3d-4006-8c0a-61ae91c6be2b",
-	"34efb7b7-d41c-45d3-a788-de3c381c38d3",
-	"b3e699fb-1497-4aaf-8991-72180a327bb9",
-	"ccf1ba95-8be3-4df7-a58a-16b590bb02f0",
-	"56298599-460e-4730-94fb-660322c13b59",
-	"995c67b7-ff19-4557-9676-d357885ffc87",
-	"2620e6ac-2f2a-4419-8f0c-cf752dd851d5",
-	"3ec2104d-b8f4-4108-a718-a273d9b3b803",
-	"502100d6-46e5-49f7-a8b5-9aa43b114497",
-	"96bee505-7070-4830-81d3-41c4b391b43b",
-	"f0729873-c093-4404-aefe-c0fc5f5c5754",
-	"ec9ea9e4-cad1-43f5-9980-63e1664419c1",
-	"b0187722-414f-49bb-9ee0-5b0b8fd01928",
+	"5a86a1f9-721a-4165-b5dd-35b9996438a6",
 ];
 
 download_all(uuids);
