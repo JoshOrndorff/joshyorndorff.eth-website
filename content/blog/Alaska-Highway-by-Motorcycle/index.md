@@ -1,7 +1,7 @@
 +++
 title = "Alaska Highway by Motorcycle"
 date = "2015-06-25T05:05:58+00:00"
-tags = ["Travel"]
+tags = ["Travel", "Alaska"]
 categories = []
 image = "IMG_20150613_151119500.jpg"
 +++
