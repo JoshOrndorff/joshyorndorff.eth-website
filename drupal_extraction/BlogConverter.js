@@ -111,7 +111,15 @@ uuids = [
 	// "757089f3-5888-42be-9fcc-45d3d48e25fd", // Day 1
 
 	// Begin page 5 in phpmyadmin
-	"9abf67e5-7c71-4eda-b5fa-78d9f9f8a8b9", // Day 0
+	// "9abf67e5-7c71-4eda-b5fa-78d9f9f8a8b9", // Day 0
+	// "beafd82a-1113-4fe0-820b-2168d39ac97a", // Tough Mudder
+	// "0c54f91b-ca41-4582-82b2-d800ea3eaca2", // PR
+
+
+	// TODO, this one causes a js error for some reason
+	"b53b0d90-0bd5-4e5d-8537-4b29207bf91", // Christmas
+	// "66cfd7b3-901b-4730-ad79-847dd113874e", // 25 bday
+	// "03ef4048-10bc-46e0-9404-b4b4e21e8c76", // Resolutions '13
 ];
 
 download_all(uuids);
@@ -234,14 +242,14 @@ ${photos.length > 0 ? "Photos:\n" : ""}
 		}
 	}
 
-	// Get the comments
-	const commentTree = await getPhotoGalleryComments(uuid);
+	// // Get the comments
+	// const commentTree = await getPhotoGalleryComments(uuid);
 
-	// If it is not empty, add them to the contents
-	if (commentTree.length > 0) {
-		const formattedComments = commentsToMarkdown(commentTree);
-		contents += `\nComments:\n\n${formattedComments}`;
-	}
+	// // If it is not empty, add them to the contents
+	// if (commentTree.length > 0) {
+	// 	const formattedComments = commentsToMarkdown(commentTree);
+	// 	contents += `\nComments:\n\n${formattedComments}`;
+	// }
 
 	
 	if (!existsSync(`${dashedTitle}/index.md`)) {
