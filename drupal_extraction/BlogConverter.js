@@ -117,9 +117,13 @@ uuids = [
 
 
 	// TODO, this one causes a js error for some reason
-	"b53b0d90-0bd5-4e5d-8537-4b29207bf91", // Christmas
+	"b53b0d90-0bd5-4e5d-8537-4b29207bf91b", // NID 1098, Christmas 2012
+
 	// "66cfd7b3-901b-4730-ad79-847dd113874e", // 25 bday
-	// "03ef4048-10bc-46e0-9404-b4b4e21e8c76", // Resolutions '13
+	// "03ef4048-10bc-46e0-9404-b4b4e21e8c76", // Whiteboard drawings
+
+	// TODO, didn't get resolutions '13 yet.
+	// ""
 ];
 
 download_all(uuids);
@@ -140,7 +144,7 @@ async function downloadBlog(uuid) {
 	let response = await fetch(query)
 		.then(response => response.json());
 
-	// console.log(response);
+	console.log(response);
 	// console.log("END OF RESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSE");
 
 	let {title, created} = response.data.attributes;
