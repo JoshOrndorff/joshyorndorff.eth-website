@@ -23,10 +23,18 @@ const http = require('https');
 const baseUrl = "https://joshyorndorff.com";
 
 uuids = [
-	// I'm getting errors on this one for some reason.
-	// Something about authentication.
-	// IDK!
+	// This is a draft of 2017 resolutions that were never published.
+	// It is node ID 2080
 	// "8a1496ee-76db-4b95-a2a7-5846f725d1be",
+
+	// Seven total 2015 blogs
+	// "12fc9cb4-d5fa-4535-8c17-7df91557f1b3", // States
+	// "ec657566-6c68-440b-9b02-6057fa266e5d", // Voting
+	// "540cb229-74af-41fb-bcfe-b22948a2b805", // Motorcycle
+	// "d273d557-759d-4f37-947f-aff855f7502a", // Logging
+	// "a61cd175-1221-458f-8281-9931af971cf3", // Life in Alaska
+	"18db1322-55b9-41fe-a459-feff2024b4f8", // Mini sharpie
+	// "2e0c32f6-e428-4c7b-b0fd-1989ba8bd6ac", // Resolutions
 ];
 
 download_all(uuids);
@@ -47,8 +55,8 @@ async function downloadBlog(uuid) {
 	let response = await fetch(query)
 		.then(response => response.json());
 
-	console.log(response);
-	console.log("END OF RESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSE");
+	// console.log(response);
+	// console.log("END OF RESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSE");
 
 	let {title, created} = response.data.attributes;
 
@@ -122,9 +130,21 @@ ${photos.length > 0 ? "Photos:\n" : ""}
 			});
 		});
 
-		// CAUTION! alt is used for the Korea post, but I think some older ones might use title or both.
+		// Photo captions may be stored in the alt text or the title text.
 		// Possibly even slightly different versions for each :scream:
-		contents += `![${photo.alt}](${photo.filename})\n`
+		if (photo.alt !== "" && photo.title !== "") {
+			console.log("WARNING! both alt and title text exist. Writing alt to file.");
+			console.log(`alt  : ${photo.alt}`);
+			console.log(`title: ${photo.title}`);
+
+			contents += `![${photo.alt}](${photo.filename})\n`
+		}
+		else if (photo.title !== "") {
+			contents += `![${photo.title}](${photo.filename})\n`
+		}
+		else {
+			contents += `![${photo.alt}](${photo.filename})\n`
+		}
 	}
 	
 	writeFileSync(`${dashedTitle}/index.md`, contents, {flag: "w"});	
