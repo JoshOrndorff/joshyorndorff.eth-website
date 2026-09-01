@@ -22,9 +22,11 @@ const http = require('https');
 
 const baseUrl = "https://joshyorndorff.com";
 
-// MISSING CTY 2017
 uuids = [
-	"5a86a1f9-721a-4165-b5dd-35b9996438a6",
+	// I'm getting errors on this one for some reason.
+	// Something about authentication.
+	// IDK!
+	// "8a1496ee-76db-4b95-a2a7-5846f725d1be",
 ];
 
 download_all(uuids);
@@ -45,8 +47,8 @@ async function downloadBlog(uuid) {
 	let response = await fetch(query)
 		.then(response => response.json());
 
-	// console.log(response);
-	// console.log("END OF RESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSE");
+	console.log(response);
+	console.log("END OF RESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSERESPONSE");
 
 	let {title, created} = response.data.attributes;
 
