@@ -3,7 +3,7 @@ title = "Statistics and suggestions"
 date = "2013-06-18T01:01:13+00:00"
 tags = ["Bicycle Trip"]
 categories = []
-image = "distance.png"
+image = "BicycleTripGraphic.png"
 +++
 
 I've kept pretty good track of my progress, riding trends, and expenses on this trip, and that data is summarized in a few representative figures here. The [raw data](BicycleTripData.ods) is also available is you want to do your own analysis. Hopefully this data will be interesting in its own right as well as helpful to others who want to take similar trips in the future.
