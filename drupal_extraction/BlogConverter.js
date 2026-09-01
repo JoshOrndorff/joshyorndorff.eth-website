@@ -40,19 +40,21 @@ uuids = [
 	// "6329b052-0970-465c-8b84-997830680caf", // Wild Roadtrip - Lube n Goinc
 
 	// East coast bike trip
-	"dd0a2559-73a7-4911-a48d-7acab3fd8914", // Thanks
-	"48279fd0-c266-48b9-88aa-9bc32080fd2c", // day 7
-	"739bd391-ff24-464f-9182-8b276bca1789",
+	// "dd0a2559-73a7-4911-a48d-7acab3fd8914", // Thanks
+	// "48279fd0-c266-48b9-88aa-9bc32080fd2c", // day 7
+	// "739bd391-ff24-464f-9182-8b276bca1789",
 	// "0d3e752d-e610-4c97-850c-48893b756cfd", // day 5 was goofed bad. Try it again after others succeed
-	"0001b5a2-46ca-4597-8199-49dad6f66446",
-	"d1acf913-8546-44dd-bb41-c1d30526a540",
-	"bfdee918-6e89-41cf-b8d7-52ef64999e09", 
-	"5686d3ca-5a45-4d9a-97f8-b95dc29d5e81", // day 1
-	"91ae7974-857b-40a5-8e06-9f6a41b865fb", // day 0 - prep
+	// "0001b5a2-46ca-4597-8199-49dad6f66446",
+	// "d1acf913-8546-44dd-bb41-c1d30526a540",
+	// "bfdee918-6e89-41cf-b8d7-52ef64999e09", 
+	// "5686d3ca-5a45-4d9a-97f8-b95dc29d5e81", // day 1
+	// "91ae7974-857b-40a5-8e06-9f6a41b865fb", // day 0 - prep
 
-	// These two round out page two on php my admin
 	// "d77ae626-0eda-4067-9559-e7e4d1448733", // resolutions 2014
 	// "00513030-3b63-435b-8c79-0c25192c4c7d", // Flight school in Needles
+	"2eb13699-0893-4143-a685-6dbd3330a10b", // NC Thanksgiving
+
+	// I'm on page three on phpmyadmin
 
 ];
 
@@ -156,7 +158,7 @@ ${photos.length > 0 ? "Photos:\n" : ""}
 			});
 		}
 		else {
-			console.log(`Photo ${photo.downloadUrl} already exists; skipping it.`);
+			console.log(`  Photo ${photo.downloadUrl} already exists; skipping it.`);
 		}
 
 		// Photo captions may be stored in the alt text or the title text.
