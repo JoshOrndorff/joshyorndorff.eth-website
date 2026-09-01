@@ -52,9 +52,37 @@ uuids = [
 
 	// "d77ae626-0eda-4067-9559-e7e4d1448733", // resolutions 2014
 	// "00513030-3b63-435b-8c79-0c25192c4c7d", // Flight school in Needles
-	"2eb13699-0893-4143-a685-6dbd3330a10b", // NC Thanksgiving
+	// "2eb13699-0893-4143-a685-6dbd3330a10b", // NC Thanksgiving
 
+	// 2013
 	// I'm on page three on phpmyadmin
+	// "3bbad448-4b63-43f1-9a5b-f99e6d3425c5", // Alaska 2
+	// "8803b904-887c-4790-8931-26b5265c1dd1", // Alaska 1
+	// "9d48f0d3-5507-451a-bcf7-922cdb54791b", // NID 1319, India 3: hill, south, backwaters
+	// "4d339176-201a-4d5e-b3d2-a3d131cd0b8c", // NID 1318, India 2: Agra Delhi
+	// "7fd7b9c4-d942-43d8-9bf1-5ab57b1467cd", // NID 1316,  India 1: Mumbai
+
+	// Cross Continent Bike trip
+	"251afce9-974b-416e-bd27-71f84d0d6a0f", // NID 1275, Statistics Suggestions
+	"61009107-f469-4fd1-bd3c-5958e2f25c8a", // Wrapping up thanks
+	"fd17292e-e186-4042-9a9a-19ca06fc445d", // Day 42
+	"98d5ad97-9924-4fb3-919a-bf1762b2c4ec",
+	"7e3dbc56-1eb4-46d0-92ce-c4777b0f00c0",
+	"c6b23ddd-75fd-435b-b429-75823f08702d",
+	"771d5ea8-8454-4032-ae6a-ac71583aa50d",
+	"c5b0b302-13c8-4a9b-8ca8-a58a3d2e8ba1",
+	"9ec31ddc-d9c7-4db0-b3c5-e67c4a6e6c78",
+	"ea2df73d-046d-42c7-ad1c-18607eae05ac",
+	"a247aea7-cd43-484a-bd51-9b59193418ab",
+	"7493f0ad-ff98-4b63-8680-c8d7b8e44482",
+	"1e9907ba-1fb8-44c0-acac-1918f8a80d03",
+	"3b9b9a95-a138-48fd-8a65-99b537e47b3f",
+	"753e3602-e4bb-4fa9-b05f-d63370dfd087",
+	"06c7a522-49ae-4d77-82c3-7dc764c4fd21",
+	"37545a2c-7da8-4df1-8eb1-04f9aab7a106",
+	"0e972538-680f-4245-8020-f6bab96d51dc",
+	"7753f89c-f28c-41e9-953e-92a5d0b8f31c", // Day 26
+
 
 ];
 
