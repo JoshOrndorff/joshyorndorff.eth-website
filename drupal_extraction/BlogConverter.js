@@ -88,7 +88,30 @@ uuids = [
 	// "205eb663-6ad8-4a09-b2cf-dedb0ade5554",
 	// "246ae896-c3c7-4575-baf6-438789bcdca1",
 	// "ea9e47cd-defd-44c0-9ff2-55a581bf4ff7",
-	"f3835128-93e3-4cdd-9e13-c013c287b08f",
+	// "f3835128-93e3-4cdd-9e13-c013c287b08f",
+	// "39d40da3-d622-4b77-af39-5671daa89544",
+	// "fde6b005-10de-4250-9689-8d1d2ce4377e",
+	// "ebc9ba3a-cc84-47dd-806c-70f27d8dafb8",
+	// "b1decb6a-a32f-4ffe-97a9-d76e7f469d46",
+	// "cbffe964-471d-42a2-ae7c-12b2c8ae8abb",
+	// "2de1d814-c658-490a-8675-23a546586ef9",
+	// "c9ca7a89-f56b-418a-b0f6-3d71778da285",
+	// "d1d9e60c-c5cc-4d15-92f1-6a0011a67a28",
+	// "853db43a-415b-41f9-839d-c9fd27de0c74",
+	// "c16ab9f9-625e-4014-89ff-be044f849f5a",
+	// "885292c3-291b-4488-a844-f7446cdb174c",
+	// "0d42bbc8-7f50-4c4d-9fc2-75008682da37",
+	// "a8b8910e-3735-4aef-8c3c-de6a895f1b3a",
+	// "1b630de3-6433-4c81-98cf-4eabb30686b7",
+	// "8db60574-8969-4293-ba72-3b5713da066b",
+	// "b81707e9-f714-4f5e-a559-f15991e31ee6",
+	// "53859571-baa9-4bee-9d7b-cb093249f426",
+	// "fb6bdfbd-5a80-43de-8fae-41b684119814",
+	// "369f9099-7107-4501-8ad8-525789394be2",
+	// "757089f3-5888-42be-9fcc-45d3d48e25fd", // Day 1
+
+	// Begin page 5 in phpmyadmin
+	"9abf67e5-7c71-4eda-b5fa-78d9f9f8a8b9", // Day 0
 ];
 
 download_all(uuids);
