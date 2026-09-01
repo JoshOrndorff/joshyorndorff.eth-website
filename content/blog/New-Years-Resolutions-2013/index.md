@@ -3,7 +3,6 @@ title = "New Years Resolutions 2013"
 date = "2013-01-01T07:15:06+00:00"
 tags = ["Resolutions"]
 categories = []
-image = "todo.jpg"
 +++
 
 Keeping with [tradition](/tags/resolutions), I'm posting a few new years resolutions here. I'm keeping the list a little shorter this year.
