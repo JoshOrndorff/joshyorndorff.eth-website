@@ -3,7 +3,6 @@ title = "Don't roll your own crypto"
 date = "2017-12-11T05:37:05+00:00"
 tags = ["cryptography", "philosophy"]
 categories = []
-image = "todo.jpg"
 +++
 
 The spirit is in the right place, but the message is not. Most people aren't sufficiently skilled to write and evaluate cryptographic primitives. That's certainly true. It's true of me, and there are a lot of noobs noobier than me out there of whom it is also true. People like us should not be writing our own primitives and putting them into production use.
