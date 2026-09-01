@@ -1,8 +1,8 @@
 +++
 title = "The Iron Dragon -- A reflection from my past"
 date = "2012-12-14T06:30:20+00:00"
-tags = []
-categories = ["Philosophy"]
+tags = ["Philosophy"]
+categories = []
 +++
 
 Each day we get up, go out into the world, and have a myriad of experiences. Some experiences are planned and foreseen, maybe even rehearsed. Others are surprises, and come without warning, maybe even change or disrupt those that were planned. I've always been one to like those surprise unplanned events that crop up and force us to re-evaluate our plans and think on our feet. Each experience has a unique effect on us. Some are small and forgotten almost immediately. Others are bigger, they spark a big idea, or cause a lifestyle change, they direct our thoughts, and we frequently ponder and relive them. But there are yet other experiences, that seem small as they happen, but, without our knowing, have a significant and lasting effect on us.  Tonight I'd like to recount one such even from my childhood. It happened almost twenty years (80% of my life) ago, and only in the past few days have I realized the effect it had on me.
