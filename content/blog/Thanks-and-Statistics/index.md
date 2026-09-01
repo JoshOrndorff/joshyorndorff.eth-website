@@ -3,7 +3,6 @@ title = "Thanks and Statistics"
 date = "2014-09-01T03:11:43+00:00"
 tags = ["Bicycle Trip","Travel"]
 categories = []
-image = "todo.jpg"
 +++
 
 <strong>Thanks</strong>
