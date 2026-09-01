@@ -26,3 +26,8 @@ Photos:
 ![Downtown Knightstown on the national road](IMG_20130601_121623.jpg)
 ![Sunset outside the hotel](IMG_20130601_210500.jpg)
 ![Playing games at the hotel](20130601_220553.jpg)
+
+Comments:
+
+> I'll trade you two wheat for a brick!
+> **tymorehart**

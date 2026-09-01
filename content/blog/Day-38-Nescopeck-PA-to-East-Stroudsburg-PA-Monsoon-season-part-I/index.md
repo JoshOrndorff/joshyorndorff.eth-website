@@ -21,3 +21,15 @@ Trip odometer: 4846 km
 Photos:
 
 ![A gorgeous Appalachian landscape during the day's only dry point](IMG_20130610_100457.jpg)
+
+Comments:
+
+> Way to go Josh!!! Keep riding on!!! I am so impressed everyday that I read you posts!  You are amazing.  Be safe!  You goal is coming up real soon!!!!!   Gail
+> **Gail Murray**
+>
+>> Thanks for the encouragement Gail. That other ocean starting to feel close.
+>> **Josh Orndorff**
+
+> I have to say that I so enjoy your posts and am amazed at your perseverance.  You should truly be proud at what your are GOING to finish.  Congratulations and best of luck to you in all your future endeavors. 
+>
+> **Debbie Murphy**

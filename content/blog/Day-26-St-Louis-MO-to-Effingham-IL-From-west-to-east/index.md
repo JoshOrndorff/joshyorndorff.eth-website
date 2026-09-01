@@ -28,3 +28,8 @@ Photos:
 ![State number 7](IMG_20130529_090730.jpg)
 ![At one point my trail came to a dead end. Luckily it was only a few hundred meters back to the right turn.](IMG_20130529_100748.jpg)
 ![Mostly the trails looked like this.](IMG_20130529_102345.jpg)
+
+Comments:
+
+> Hi Josh!  Just back from vacation and got caught up on your posts!!  Very impressive!!  You should be very proud of yourself.  As always you have a goal and you tough it out to make it!!!  Keep it going!  Safe Travels, Gail
+> **Gail Murray**

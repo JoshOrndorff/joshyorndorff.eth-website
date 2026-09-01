@@ -33,3 +33,16 @@ Photos:
 ![Another scenic Appalachian landscape](IMG_20130611_174436-1.jpg)
 ![No welcome to Connecticut sign either, but I saw this looking back over my shoulder.](IMG_20130611_181812.jpg)
 ![Crossed the Appalachian trail today.](IMG_20130611_182004.jpg)
+
+Comments:
+
+> I seriously did a double-take when I read that you were in CT already. Then I thought, nah that has to be a typo. Dude! You are kicking butt!!! This is seriously amazing, Joshy. Keep on keeping on.
+> **tymorehart**
+
+> Awesome,
+> 
+> Awesome job son.  Keep going strong, you're almost there.
+> **worndo**
+
+> Wow!!!! A black bear! So cool?? How many more days is it supposed to take you??? You are so close!!
+> **Sarah22bara**

@@ -25,3 +25,23 @@ Photos:
 ![Covered bridge on the old national road](IMG_20130530_100659_0.jpg)
 ![What the heck Indiana? No welcome sign?](IMG_20130530_130334_0.jpg)
 ![The county is glad to see me. I'll take that.](IMG_20130530_130313.jpg)
+
+Comments:
+
+> Josh,
+> 
+> On behalf of Illinois, you are welcome.   Way to go.  This has been a very impressive trip.  Good luck with the rest of the corn states.   
+> **George Visser**
+>
+>> Glad to hear Illinois went smoothly. Looks like you're in for a wet day or two. Love reading about your journey. Too bad you can't teach in Huron. You could help me coach in the fall. (After 8 years off, I'm getting back in...)
+>> 
+>> **Roger Blevins**
+>>
+>>> I've been waiting a long time to hear that news and now I can't stop smiling. When does conditioning start? You'll have some talent too. One of the Tomczyks (I think Kevin) beat me at the Thanksgiving day run in Huron. Good luck man; it'll be a great season.
+>>> 
+>>> ps. It's been seven years I think. Watch out for <a href="http://www.joshorndorff.com/node/972"> fence post errors <a>.
+>>> **Josh Orndorff**
+
+> Josh, I just read your blog and all 28 days so far on your journey. I think it is so cool and brave to do that kind of ride!. Cant wait to continue reading your blog. Sounds like you have met alot of nice people. Keep truckin!
+> 
+> **3213boyz**

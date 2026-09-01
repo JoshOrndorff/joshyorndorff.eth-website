@@ -29,3 +29,9 @@ Photos:
 ![Sign along the bike trail in London OH](IMG_20130603_123320.jpg)
 ![Downtown Columbus](IMG_20130603_152636.jpg)
 ![The three of us together after dinner](IMG_20130604_000719.jpg)
+
+Comments:
+
+> Hi Josh,
+> Good luck with getting your dad to ride with you again!!! from the picture of him on the ground after the last one and if he is able to walk I hope he is able to ride some more with you!  Again Good Luck!  and keep up the good work!!!!
+> **Gail Murray**

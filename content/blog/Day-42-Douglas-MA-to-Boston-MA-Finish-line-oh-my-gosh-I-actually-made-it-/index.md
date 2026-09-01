@@ -28,3 +28,30 @@ Photos:
 ![A quick reflection before going in](IMG_20130614_141047.jpg)
 ![](IMG_20130614_141123.jpg)
 ![](IMG_20130614_141135.jpg)
+
+Comments:
+
+> Congratulations!!!! That's amazing! and tell Maggie I said hi.
+> **Sarah22bara**
+
+> You simply amaze me with the things you can accomplish. Congrats, man!
+> **tymorehart**
+
+> Awesome Josh! Been following you every day!  Congratulations!
+> **Steve Hannah**
+
+> You are the man buddy.
+> **Terence**
+
+> Way to go Josh!   I wish I could have done it with you.  It seemed like an awesome trip.   Next time you should bike from Canada to Mexico.  Its much shorter.
+> Have you weighed yourself?  I've heard most people loose about 20 pounds when they do this.
+> **George**
+>
+>> I didn't have a really accurate starting weight, but it looks like I lost about 15 pounds. Hopefully I'll be able to keep them off for the summer. I don't know if there will be a next time, but if there is I'd like to do the Dakotas, Montana, Idaho, etc. Places I've never been, and the real hard party of the Rockies. I'll call you so you can join in before that trip. Thanks for the encouragement along the way man :-)
+>> **Josh Orndorff**
+>>
+>>> Don't you mean 6.8 Kg?  :-)
+>>> **George**
+
+> Congratulations Josh!!!  AMAZING!!!!  You are an inspiration as I've said before you set a goal and go for it and you accomplished this unbelievable journey!!!!  So what is your next adventure!?
+> **Gail Murray**

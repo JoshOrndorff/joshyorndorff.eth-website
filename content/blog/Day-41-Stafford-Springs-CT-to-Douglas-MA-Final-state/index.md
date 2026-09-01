@@ -23,3 +23,11 @@ Photos:
 ![New England landscape with an old stone wall in the foreground](IMG_20130613_092636.jpg)
 ![Maybe these signs really help because I haven't seen any roadkilled turtles in a while.](IMG_20130613_100454.jpg)
 ![Pushing my bike up the rocky road / creek](IMG_20130613_104239.jpg)
+
+Comments:
+
+> That's definitely a creek. Did any cars actually pass while you were on that road?!
+> **Sarah22bara**
+>
+>> I don't think any cars have taken that road this century.
+>> **Josh Orndorff**

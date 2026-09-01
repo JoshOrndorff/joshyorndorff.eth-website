@@ -23,3 +23,11 @@ Trip odometer: 4329 km
 Photos:
 
 ![Michelle and me in her graduate student lounge](IMG_20130606_135323.jpg)
+
+Comments:
+
+> Joe Mama! Joe MAAMAA! I know Joe Mama. HEY! I know Joe. Joe MAMA THAT'S RIGHT BOY! BAM!!!!
+> **tymorehart**
+>
+>> Probably the orphans' best song
+>> **Josh Orndorff**

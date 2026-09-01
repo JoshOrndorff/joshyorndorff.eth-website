@@ -30,3 +30,42 @@ Photos:
 ![We made it](IMG_20130602_144500.jpg)
 ![The three of us with the cement Mobius strip](IMG_20130602_222325.jpg)
 ![The University where I hung out for a while](IMG_20130602_194253.jpg)
+
+Comments:
+
+> Hi Josh!  How cool to have your parents meet up with you and have your dad ride some with you!!!  I'm sure they are sooooo proud of you and your accomplishments so far.  Can't believe 30 days already!!!  You are an inspiration!!!!  Keep riding and safe travels!!!!   Gail
+> **Gail Murray**
+
+> I must say, this was a great experience.  The picture of me on the ground doesn't even do justice to the way I felt.  On one end of the spectrum was the fact that I was able to ride with Josh for the entire day trip (albeit probably his shortest day of the trip) and on the other end feeling like I would never stand up again as my legs hurt so much.  I admire Josh's ability to endure through day after day of various obstacles (physical, mental, emotional) to achieve his goal.  What an awesome feeling.
+> **worndo**
+>
+>> I think your fist-day-riding experience was the same as mine. And hey, the day you rode was longer than KY forth day. Thanks for riding along!
+>> **Josh Orndorff**
+
+> Yea Josh, you are doing GREAT !!  Bet it was good to see Mom & Dad.  Keep up the good riding, you'll be in Boston before you know it.  Hope Waynie can walk today, what a brave sole !!  
+> **Linda Nitschke**
+>
+>> Yeah, it was really cool to see them. It sure feels like a long way from Lake Havasu City!
+>> **Josh Orndorff**
+
+> Hey Joshy,
+> 
+> I just thought you should know that my daily checks of your website has bumped you into my "top 8" for google chrome. Pretty impressive, my friend. You are still losing to the likes of ESPN and Facebook, but you just dropped Pintrest out of there. So I thank you!
+> 
+> -Tyler "I guess you making it all the way to Ohio already is pretty B.A." Morehart
+> **tymorehart**
+>
+>> Being in someone's to 8 has been a big honor ever since the days of Myspace. Thanks for the encouragement man.
+>> 
+>> I need your finger spanning method to tell me when the 3/4 point is.
+>> 
+>> Joshy " I sure hope you're sharing that computer with Beth if pintrest was in there" Orndorff
+>> **Josh Orndorff**
+>>
+>>> Finger spanning official report:
+>>> 
+>>> According to my precise guestimation using the extraordinarily accurate finger spanning method, you surpassed the 3/4 waypoint yesterday on your way to Columbus. 
+>>> MOE: +/-200km.
+>>> 
+>>> -Tyler "Your mom is the rest of my top 8 ;)" Morehart
+>>> **tymorehart**
