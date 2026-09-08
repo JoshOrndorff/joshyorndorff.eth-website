@@ -114,15 +114,34 @@ uuids = [
 	// "9abf67e5-7c71-4eda-b5fa-78d9f9f8a8b9", // Day 0
 	// "beafd82a-1113-4fe0-820b-2168d39ac97a", // Tough Mudder
 	// "0c54f91b-ca41-4582-82b2-d800ea3eaca2", // PR
-
-
-	// TODO, this one causes a js error for some reason
 	// "b53b0d90-0bd5-4e5d-8537-4b29207bf91b", // NID 1098, Christmas 2012
-
 	// "66cfd7b3-901b-4730-ad79-847dd113874e", // 25 bday
+	// "226fc7f9-aa95-448a-9d98-561eb3048ac3", // Resolutions '13
+
+	// 2012
 	// "03ef4048-10bc-46e0-9404-b4b4e21e8c76", // Whiteboard drawings
 	// "579c3e73-0948-4dc7-82f3-ac200f9f54c7", // Iron Dragon
-	// "226fc7f9-aa95-448a-9d98-561eb3048ac3", // Resolutions '13
+
+	// "226fc7f9-aa95-448a-9d98-561eb3048ac3", // Resolutions '13 again. I guess it got edited at some point.
+	// "d93058e9-96af-4d53-b097-2048fd4818e7",
+	// "3028a751-2282-4285-9dc2-24e465b3a220",
+	// "57997078-1116-4992-bfce-efaf2c40062d",
+	// "cb50079f-ede3-4062-a2fc-64a458ea11a2",
+	// "f207ff6e-cba9-4af8-9665-78ee8d04ec50",
+	// "3deaf1e8-2e68-49e1-be91-2a119746f846",
+	// "d041e086-c25e-4bfd-bfc6-0ee027e333da",
+	// "55ff0cff-5446-4ae7-b2df-1c347f9cc7bb",
+	// "23633d30-2ef1-4b30-84e7-416e94165aeb",
+
+	"7128a81e-b8a2-4045-8794-19fde143e689",
+	"8b1364e5-7a97-4ec4-8ee9-746075e147d7",
+	"b460dce6-52b4-4019-bbee-065f1896ec8e",
+	"9ab17200-5180-4cfd-8830-cdb846169356",
+	"9d05eab6-7eff-4ed5-80d4-44ad6e5e4304",
+	"b6a7c8b7-770c-44ab-81a3-9728cd871f85",
+	"9955c2ab-5481-4ac9-b7d6-dd148b0099d2",
+	"b7f22334-e273-4983-98bc-a372cea13cab",
+
 ];
 
 download_all(uuids);
