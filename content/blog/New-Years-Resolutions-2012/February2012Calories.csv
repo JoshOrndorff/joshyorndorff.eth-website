@@ -1,0 +1,117 @@
+Date,Description,Quantity,kCal,kJ
+02/01/2012,Spicy Szechuan Chicken,1,600,=4.184*D2
+02/01/2012,Foot-long Buffalo Chicken Sub,1,840,=4.184*D3
+02/01/2012,Potato chip cookies,2,250,=4.184*D4
+02/01/2012,Quesadilla,1,300,=4.184*D5
+02/02/2012,Beef Stew,622g,600,=4.184*D6
+02/02/2012,oreos,6,320,=4.184*D7
+02/02/2012,Nilla wafers,12,150,=4.184*D8
+02/02/2012,Buffalo wild wings,25,=25*88,=4.184*D9
+02/03/2012,Beef Stew,622g,600,=4.184*D10
+02/03/2012,Joseph cookie,1,42,=4.184*D11
+02/03/2012,oreos,3,160,=4.184*D12
+02/03/2012,carmels,4,,=4.184*D13
+02/03/2012,Pasta,280g,1000,=4.184*D14
+02/04/2012,Pasta,300g,1071,=4.184*D15
+02/04/2012,carmels,2,,=4.184*D16
+02/04/2012,Potato chip cookies,9,=9*125,=4.184*D17
+02/05/2012,Potato chip cookies,3,=3*125,=4.184*D18
+02/05/2012,Chocolate cheesecake,1 piece,,=4.184*D19
+02/05/2012,Cheese,3 handfuls,200,=4.184*D20
+02/05/2012,Super Bowl Party,,900,=4.184*D21
+02/06/2012,Wheat thins,4,35,=4.184*D22
+02/06/2012,Potatoes Au Gratin,small bag,100,=4.184*D23
+02/06/2012,Turkey breast bacon sub,1 piece,840,=4.184*D24
+02/06/2012,BBQ rice,1 package,=164/76*260,=4.184*D25
+02/06/2012,Potato chip cookies,6,=6*125,=4.184*D26
+02/07/2012,2 subs at Subway,,1440,=4.184*D27
+02/07/2012,Pasta,,600,=4.184*D28
+02/07/2012,Potato chip cookies,1,125,=4.184*D29
+02/08/2012,Spicy Szechuan Chicken,1,600,=4.184*D30
+02/08/2012,Pork Lo Mein at China House,1 package,600,=4.184*D31
+02/09/2012,colloquium cookies,23,=C32*80,=4.184*D32
+02/09/2012,Buffalo Wings,24,=24*88,=4.184*D33
+02/10/2012,BBQ rice (didn’t quite finish),1 package,550,=4.184*D34
+02/10/2012,Roast Beef and potatos,1 plate,500,=4.184*D35
+02/10/2012,Chicken Parmesan and spaghetti,1 plate,700,=4.184*D36
+02/10/2012,Buffalo chicken dip,a lot,=140*3+235,=4.184*D37
+02/10/2012,applesauce muffin,1 package,183,=4.184*D38
+02/11/2012,breakfast eggs etc,1 plate,900,=4.184*D39
+02/11/2012,kettle chips,148g,=148/28*150,=4.184*D40
+02/11/2012,popcorn,some,150,=4.184*D41
+02/11/2012,gnocchi,1 plate,860,=4.184*D42
+02/11/2012,Corn Flakes,huge bowl,450,=4.184*D43
+02/12/2012,mess,1 plate,900,=4.184*D44
+02/12/2012,muffins,280g,200,=4.184*D45
+02/12/2012,pizza bread,1/3 loaf,300,=4.184*D46
+02/12/2012,Pasta,1 plate,300,=4.184*D47
+02/13/2012,Muffins,3,=3*183,=4.184*D48
+02/13/2012,pasta,,400,=4.184*D49
+02/13/2012,Pizza hut bread sticks,,,=4.184*D50
+02/13/2012,gnocchi,,,=4.184*D51
+02/13/2012,cupcake,,,=4.184*D52
+02/13/2012,cookie,1,125,=4.184*D53
+02/13/2012,lemon poppy seed muffins,9,=9*75,=4.184*D54
+02/14/2012,Potato chip cookies,2,=3*125,=4.184*D55
+02/14/2012,Cuban Pork sandwiches,3,,=4.184*D56
+02/14/2012,Valentines day candy,1 box,240,=4.184*D57
+02/14/2012,lemon poppy seed muffins,10,=75*10,=4.184*D58
+02/14/2012,meatloaf,,,=4.184*D59
+02/15/2012,Spaghetti,a little,200,=4.184*D60
+02/15/2012,Jambalaya,290g,,=4.184*D61
+02/15/2012,Footlong Subway melt,1,740,=4.184*D62
+02/15/2012,Meat Loaf,,,=4.184*D63
+02/15/2012,lemon poppy seed muffins,3,=3*75,=4.184*D64
+02/15/2012,Half quesadilla,,150,=4.184*D65
+02/15/2012,Chicken Taragon Pasta,200g?,,=4.184*D66
+02/16/2012,Cupcakes,3,,=4.184*D67
+02/16/2012,Spaghetti and sauce,460g,,=4.184*D68
+02/16/2012,oreos,7,=7*55,=4.184*D69
+02/16/2012,fig newtons,4,,=4.184*D70
+02/16/2012,Buffalo wild wings,20,=20*75,=4.184*D71
+02/17/2012,Spaghetti and sauce,558g,,=4.184*D72
+02/17/2012,fiber on brownie bar,1,90,=4.184*D73
+02/17/2012,kettle chips,87g,=150/28*87,=4.184*D74
+02/17/2012,Quessadilla,1,500,=4.184*D75
+02/17/2012,Taco Bell tacos,2,=170*2,=4.184*D76
+02/17/2012,Beer,8?,=140*8,=4.184*D77
+02/18/2012,bowl of cereal,,,=4.184*D78
+02/18/2012,Taco Bell potato burrito,½ lb,540,=4.184*D79
+02/18/2012,Elf Cookies,9,450,=4.184*D80
+02/18/2012,Quessadilla,1,300,=4.184*D81
+02/18/2012,Mexican caserol,,600,=4.184*D82
+02/18/2012,Wings and appetizers,,700,=4.184*D83
+02/19/2012,Quessadilla,2,=(70/28*90+2*80)*2,=4.184*D84
+02/19/2012,Vito’s lobster pizza,,,=4.184*D85
+02/20/2012,Pasta,618g,,=4.184*D86
+02/20/2012,Chocolate Chip cookie,3,,=4.184*D87
+02/20/2012,Tater Tots,60,=6*160,=4.184*D88
+02/20/2012,Orange Juice,,,=4.184*D89
+02/21/2012,Pasta,248g,,=4.184*D90
+02/21/2012,Subway Melt,1,740,=4.184*D91
+02/21/2012,fruity pebbles bars,2,,=4.184*D92
+02/21/2012,Chocolate Chip cookie,2,,=4.184*D93
+02/21/2012,Tater Tots,60,960,=4.184*D94
+02/22/2012,Cuban Pork,2,,=4.184*D95
+02/22/2012,PBJ on burger bun,2,,=4.184*D96
+02/22/2012,Peanutbutter,60g,380,
+02/22/2012,fruity pebbles bars,3,,=4.184*D98
+02/22/2012,Tater Tots,60,960,=4.184*D99
+02/23/2012,Subway Chicken Bacon Ranch melt,1,1140,=4.184*D100
+02/23/2012,colloquium cookies,5,=C101*80,=4.184*D101
+02/23/2012,Buffalo Wings,,1900,=4.184*D102
+02/24/2012,Chicken Bacon Calzone from Vitos,1,,=4.184*D103
+02/25/2012,Quesadilla,1,350,=4.184*D104
+02/25/2012,rice and spicy shrimp,315g rice + 314g shrimp,,=4.184*D105
+02/25/2012,6” Subway veggie patty sub,1,400,=4.184*D106
+02/26/2012,Rice (with hula chicken),1000g,=160/45*1000,=4.184*D107
+02/26/2012,Tater Tots,32,500,=4.184*D108
+02/27/2012,Subway Veggie Patty,1,800,=4.184*D109
+02/27/2012,Peanut butter,spoonfuls,600,=4.184*D110
+02/27/2012,Oat Tea,1 cup,150,=4.184*D111
+02/27/2012,Quesadilla,½,300,=4.184*D112
+02/28/2012,cheese,,300,=4.184*D113
+02/28/2012,Baked Rice,1 pan (2 cans),=5*110+2.5*160,=4.184*D114
+02/28/2012,Wheat thins,16,140,=4.184*D115
+02/29/2012,Wheat thins,=5*16,=5*D115,=4.184*D116
+02/29/2012,Foot-long veggie patty,1,800,=4.184*D117
