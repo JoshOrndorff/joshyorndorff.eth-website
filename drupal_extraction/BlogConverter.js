@@ -8,12 +8,10 @@
 // * Images
 // * Image captions
 // * Tags
+// * Comments for bike trip posts only
 //
-// Data to maybe forget, or maybe keep somewhere but not render:
-// * Comments
-// * Comment hierarchy
-//
-// Got some data about this post using PHPMYADMIN and the node table
+// The script grabs blogs based on their uuid. You can get them using PHPMYADMIN and 
+// exploring the node table. Specifically, this SQL Query:
 // SELECT * FROM `node` WHERE `type` = "photo_gallery" ORDER BY `nid` DESC;
 
 const fetch = require('node-fetch');
@@ -161,11 +159,12 @@ uuids = [
 	// "79a5d6ca-a8e3-440f-9a6b-1b1892519c49",
 	// "12eb1f51-067f-4644-96c4-aafb3f4ebe61",
 	// "64c7b2d3-84c0-4d67-b394-a4100bdeb0b1",
+	// "91b9aab4-c12c-442c-afe1-10c2a597f1d1",
+	// "3c363411-1c74-4672-b737-d9c0e24fbfb1",
+	// "39f7a60a-f022-4ed5-b4c5-1e5e4f7047ec",
+	// "aac0749b-3fa8-4e37-98a8-76ce79877461", // Roadtrip to california
 
-	"91b9aab4-c12c-442c-afe1-10c2a597f1d1",
-	"3c363411-1c74-4672-b737-d9c0e24fbfb1",
-	"39f7a60a-f022-4ed5-b4c5-1e5e4f7047ec",
-	"aac0749b-3fa8-4e37-98a8-76ce79877461",
+	"fef41dd1-15ad-4d1e-a268-1229b9ad610a", // Michigan Bicycle Trip
 
 ];
 
