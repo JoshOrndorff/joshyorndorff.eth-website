@@ -20,6 +20,10 @@ The final ride was back into Grand Rapids via M-45 (Lake Michigan Drive).  The r
 
 After all that, I put my bike in the back of Sarah's car and we drove back to Huron so I could get ready to head out to CTY the next day.  It ended up being a great trip.
 
+Sarah's Comment:
+
+> dude! I was not hurting the first day! You must have just thought that I was hurting because I was slow!
+
 Photos:
 
 ![Me and Tyler at Dick's while our bikes were getting tuned up before we left.](35041_427026247896_647047896_4746969_7424060_n.jpg)
