@@ -163,8 +163,14 @@ uuids = [
 	// "3c363411-1c74-4672-b737-d9c0e24fbfb1",
 	// "39f7a60a-f022-4ed5-b4c5-1e5e4f7047ec",
 	// "aac0749b-3fa8-4e37-98a8-76ce79877461", // Roadtrip to california
+	// "fef41dd1-15ad-4d1e-a268-1229b9ad610a", // Michigan Bicycle Trip
 
-	"fef41dd1-15ad-4d1e-a268-1229b9ad610a", // Michigan Bicycle Trip
+	// China
+	"dea92c16-4978-4b2e-bd78-491c30992112", // Pearl River Cruise
+	"d93f73f9-a15b-411c-8b00-4c7e9c066663", // Dragon Boats
+	"8e6ae9ac-3060-4d76-9d5b-2e280d4b8dad", // Opera House
+
+	// Begin page 7 of PhpMyAdmin
 
 ];
 
