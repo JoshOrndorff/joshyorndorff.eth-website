@@ -165,13 +165,31 @@ uuids = [
 	// "aac0749b-3fa8-4e37-98a8-76ce79877461", // Roadtrip to california
 	// "fef41dd1-15ad-4d1e-a268-1229b9ad610a", // Michigan Bicycle Trip
 
-	// China
-	"dea92c16-4978-4b2e-bd78-491c30992112", // Pearl River Cruise
-	"d93f73f9-a15b-411c-8b00-4c7e9c066663", // Dragon Boats
-	"8e6ae9ac-3060-4d76-9d5b-2e280d4b8dad", // Opera House
+	// China Era
+	// "dea92c16-4978-4b2e-bd78-491c30992112", // Pearl River Cruise
+	// "d93f73f9-a15b-411c-8b00-4c7e9c066663", // Dragon Boats
+	// "8e6ae9ac-3060-4d76-9d5b-2e280d4b8dad", // Opera House
 
 	// Begin page 7 of PhpMyAdmin
-
+	"2ff1ed2a-8e31-4d62-8fe0-e44b0e76a984", // Jazz Show
+	"137d7016-447d-4dcb-8f4f-5933ce1ab891", // todo in America
+	"61ba91cd-e8b0-4560-b3fc-8e5106d93c5b", // GD Museum
+	// "9ceed4f9-0005-4cf6-a5d0-63c4e9277077", // Baiyun Mountain
+	// "91e0245b-8bed-4c67-9cef-1556e41e9b84", // HuangPu Port
+	// "7dfe1c7b-66ef-4f0d-a9df-1375d57d0e39", // Sunny and Me
+	// "95b044c7-2a89-458f-8101-391199a58d9d", // Hong Kong Trip
+	// "2a2ce686-5d30-4b77-9b25-776e493bc7d6", // Another Walking trip
+	// "d078ce8c-4d8c-4ff0-b62e-1a2ef325db98", // Tianhe Park Brian
+	// "7eefe011-7d04-460e-b457-56ffbe482096", // nid39 5 goat statue
+	// "a74b89bf-a431-4289-8835-c0ccdd613628", // nid34 Tianhou Palace Jasmine
+	// "da79ee46-7c01-4a3c-84cf-745411283a68", // nid28 Shamian Island
+	// "5bb8e36d-7d56-46e1-846f-d3e97b3832eb", // nid27 Grandview Mall
+	// "c4301e94-bf89-478e-8698-5b9c83a82e43", // nid22 Jeff's Birthday
+	// "fc77b7d5-f134-4ca1-a3ec-5f5ee89c545d", // nid19 Alex and the Airplanes
+	// "7ce82ad6-347d-4702-9111-2adc8ce11323", // nid16 Engrish
+	// "68f7d9ad-c59c-486c-ba8b-b1b38edc84ee", // nid14 Beijing Road
+	// "794868bb-1688-4c8d-9a31-166386a8157f", // nid13 First night in China
+	// "70caf6f2-99cb-4305-a520-3b058e5b9298", // nid12 School
 ];
 
 download_all(uuids);
