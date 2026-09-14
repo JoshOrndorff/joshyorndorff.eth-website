@@ -182,15 +182,14 @@ uuids = [
 	// "d078ce8c-4d8c-4ff0-b62e-1a2ef325db98", // Tianhe Park Brian
 	// "7eefe011-7d04-460e-b457-56ffbe482096", // nid39 5 goat statue
 	// "a74b89bf-a431-4289-8835-c0ccdd613628", // nid34 Tianhou Palace Jasmine
-	
-	"da79ee46-7c01-4a3c-84cf-745411283a68", // nid28 Shamian Island
-	"5bb8e36d-7d56-46e1-846f-d3e97b3832eb", // nid27 Grandview Mall
-	"c4301e94-bf89-478e-8698-5b9c83a82e43", // nid22 Jeff's Birthday
-	"fc77b7d5-f134-4ca1-a3ec-5f5ee89c545d", // nid19 Alex and the Airplanes
-	// "7ce82ad6-347d-4702-9111-2adc8ce11323", // nid16 Engrish
-	// "68f7d9ad-c59c-486c-ba8b-b1b38edc84ee", // nid14 Beijing Road
-	// "794868bb-1688-4c8d-9a31-166386a8157f", // nid13 First night in China
-	// "70caf6f2-99cb-4305-a520-3b058e5b9298", // nid12 School
+	// "da79ee46-7c01-4a3c-84cf-745411283a68", // nid28 Shamian Island
+	// "5bb8e36d-7d56-46e1-846f-d3e97b3832eb", // nid27 Grandview Mall
+	// "c4301e94-bf89-478e-8698-5b9c83a82e43", // nid22 Jeff's Birthday
+	// "fc77b7d5-f134-4ca1-a3ec-5f5ee89c545d", // nid19 Alex and the Airplanes
+	"7ce82ad6-347d-4702-9111-2adc8ce11323", // nid16 Engrish
+	"68f7d9ad-c59c-486c-ba8b-b1b38edc84ee", // nid14 Beijing Road
+	"794868bb-1688-4c8d-9a31-166386a8157f", // nid13 First night in China
+	"70caf6f2-99cb-4305-a520-3b058e5b9298", // nid12 School
 ];
 
 download_all(uuids);
