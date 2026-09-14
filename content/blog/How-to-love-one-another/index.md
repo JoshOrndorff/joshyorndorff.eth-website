@@ -1,7 +1,7 @@
 +++
 title = "How to love one another"
 date = "2009-06-21"
-tags = ["Import", "Travel"]
+tags = ["Import", "Travel", "Motorcycle"]
 categories = []
 +++
 
@@ -65,5 +65,4 @@ So that's pretty much where I stand for now.  I've come an embarrassingly short 
 Please post your thoughts or ideas as comments.  If you commented on this essay in one of its previous locations, don't feel obligated to say anything new or unique here, or anything at all for that matter.  But this is probably going to be the final home of this essay, so if you want your comment preserved, this is probably the place for it.
 
 love, Joshy Woshy
-
-
+</blockquote>
