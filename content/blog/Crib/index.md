@@ -66,7 +66,7 @@ Are you familiar with the [Fibonacci Series](https://en.wikipedia.org/wiki/Fibon
 
 ## Another Kid
 
-In 2023 we found out that our second child, Riley, was on the way. We loved the existing crib enough that we wanted her to experience it too. But I also wanted to _show_ her that she is a unique and special individual and just another version of her brother or anyone else. So I set out to make a new set of spindles for her to put in the existing crib. This time I took inspiration from the solar system. We were reading a lot of "Magic School Bus: Lost in the Solar System" at the time, so it came naturally. One thing that we did differently this time, is that Julie painted the front spindles in true-to-life colors. Julie also picked out a new set of drawer pulls for Riley.
+In 2023 we found out that our second child, Riley, was on the way. We loved the existing crib enough that we wanted her to experience it too. But I also wanted to _show_ her that she is a unique and special individual and not just another version of her brother or anyone else. So I set out to make a new set of spindles for her to put in the existing crib. This time I took inspiration from the solar system. We were reading a lot of "Magic School Bus: Lost in the Solar System" at the time, so it came naturally. One thing that we did differently this time, is that Julie painted the front spindles in true-to-life colors. Julie also picked out a new set of drawer pulls for Riley.
 
 ![Finished view of Riley's crib](baby-crib_024.jpeg)
 
