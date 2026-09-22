@@ -216,7 +216,7 @@ menu:
     main: 
         - identifier: Old Site
           name: Old Site
-          url: https://joshyorndorff.com
+          url: https://old.joshyorndorff.eth.limo
           weight: 100
           params:
             icon: home
