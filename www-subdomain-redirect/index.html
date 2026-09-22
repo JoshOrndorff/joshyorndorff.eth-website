@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Redirecting…</title>
+  <meta name="robots" content="noindex">
+
+  <script>
+    const targetOrigin = "https://joshyorndorff.eth.limo";
+
+    // Preserve the path, query string, and fragment.
+    const target =
+      targetOrigin +
+      window.location.pathname +
+      window.location.search +
+      window.location.hash;
+
+    window.location.replace(target);
+  </script>
+
+  <!-- Fallback for browsers with JavaScript disabled -->
+  <meta
+    http-equiv="refresh"
+    content="0; url=https://joshyorndorff.eth.limo/"
+  >
+</head>
+<body>
+  <p>
+    Redirecting to
+    <a href="https://joshyorndorff.eth.limo/">joshyorndorff.eth.limo</a>…
+  </p>
+</body>
+</html>
