@@ -61,11 +61,13 @@ Eventually I made it to the very last aid station. When I got there, I was expec
 
 Finishing felt amazing, and the BBQ sandwiches they had at the end did too. We went back to the hotel, limped through a shower, and went to bed really early. My final time was 11:12, and Tyler's was 10:20. There was a bell at the finish that you are supposed to ring, but I was so beat, that I didn't even remember it and somehow walked past without seeing it.
 
-![Tyler finishing and ringing the bell.](signal-2026-07-13-12-20-49-102_028.jpg)
+![Tyler finishing and ringing the bell.](signal-2026-07-13-12-20-49-102_029.jpg)
+![Both of us after the finish.](signal-2026-07-13-12-20-49-102_032.jpg)
+
 
 Overall, one of the hardest physical challenges of my life, but well worth it and really fun. Thanks for the invite Tyty.
 
-# Following Few Months
+## Following Few Months
 
 After the race, I took an easy week, and then got back to building my mileage.
 
