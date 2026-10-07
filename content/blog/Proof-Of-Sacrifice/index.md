@@ -23,7 +23,7 @@ Time is divided into slots, and one block will ultimately be committed in each s
 
 In the diagram above we can see that the author offers to burn some tokens in the very first transaction in each block. After that normal transactions are included. In the leftmost block depicted:
 
-* The author (👩) offers to burn 5 tokens for the privilege of authoring. This transaction is interpreted as a bid because it is the first in the block. A block that does not offer to burn in the first position is not a valid block.
+* The author (👩) offers to burn 2 tokens for the privilege of authoring. This transaction is interpreted as a bid because it is the first in the block. A block that does not offer to burn in the first position is not a valid block.
 * The next transaction is a regular transfer from 🧑‍🚒 to 🧑‍🍳 in the amount of 3 tokens.
 * And finally a regular transaction from 🫅 to 👴 in the amount of 2 tokens.
 
@@ -31,7 +31,7 @@ While they are not depicted in the diagram, we assume that the regular transacti
 
 ### Fork Choice Resolution
 
-To determine which block is the best block, we use the Heaviest Chain rule where the block weights are set to the amount of money burnt in that block's coinbase transaction. At any moment, the best chain is the one in which the most tokens have been burned. (In a real-world implementation, the [GHOST](https://eprint.iacr.org/2013/881.pdf rule is probably better than the simple heaviest chain rule, but in this writeup I will use the heaviest chain rule to keep the diagrams manageable and the content approachable.)
+To determine which block is the best block, we use the Heaviest Chain rule where the block weights are set to the amount of money burnt in that block's coinbase transaction. At any moment, the best chain is the one in which the most tokens have been burned. (In a real-world implementation, the [GHOST](https://eprint.iacr.org/2013/881.pdf) rule is probably better than the simple heaviest chain rule, but in this writeup I will use the heaviest chain rule to keep the diagrams manageable and the content approachable.)
 
 ![The longest chain is selected using GHOST](ForkChoice1.svg)
 
@@ -61,7 +61,7 @@ One may be tempted to consider 🧑‍🍳's block invalid, but there is no bene
 
 ## Compare to Proof of Work
 
-Proof os Sacrifice is similar to Proof of Work in that you consume a scarce resource for the privilege of authoring. If you imagine running Proof of Work and paying your energy bill with the tokens of the blockchain the similarity is even more apparent. One difference is that the money spent on security is directly burned rather than being spent on energy and thus the security spend is recouped by the token holders rather than an external energy utility.
+Proof of Sacrifice is similar to Proof of Work in that you consume a scarce resource for the privilege of authoring. If you imagine running Proof of Work and paying your energy bill with the tokens of the blockchain the similarity is even more apparent. One difference is that the money spent on security is directly burned rather than being spent on energy and thus the security spend is recouped by the token holders rather than an external energy utility.
 
 Proof of Sacrifice is unlike Proof of Work, and more like Proof of Stake in that it doesn't require any actual energy burn or the environmental side effects associated with it. It is also like Proof of Stake in that authoring requires having some stake in the network.
 
