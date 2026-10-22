@@ -26,7 +26,7 @@ I never caught one or saw any of my peers or our parents catch one. But the lead
 
 #### Robby's Dad and the Homemade Spears
 
-As boys of about tenish years old, one of the major rights of passage was getting your first pocket knife. You had to learn and recite all the safety rules and be old enough to be allowed to have one. We would talk about the rules and the dangers and stuff at the meetings to get ready to get our knives, and surprisingly we all took it pretty seriously and I don't recall a single serious accident from pocket knives.  When you got one, you learned to whittle. I remember an occasional activity of making soap sculptures which I thought was kind of lame and messy and I wasn't too good at it. But we also learned how to sharpen sticks into homemade spears, and we all thought that was awesome!
+As boys of about ten-ish years old, one of the major rights of passage was getting your first pocket knife. You had to learn and recite all the safety rules and be old enough to be allowed to have one. We would talk about the rules and the dangers and stuff at the meetings to get ready to get our knives, and surprisingly we all took it pretty seriously and I don't recall a single serious accident from pocket knives.  When you got one, you learned to whittle. I remember an occasional activity of making soap sculptures which I thought was kind of lame and messy and I wasn't too good at it. But we also learned how to sharpen sticks into homemade spears, and we all thought that was awesome!
 
 At every camp out we would find good straight sticks and set to the task of sharpening them into the coolest spear. One time one of the dads showed us that you could also make patterns in the bark to make your spear look extra cool.
 
@@ -48,11 +48,11 @@ This past summer at Riverfest, the local scout troop set up a climbing wall and 
 
 #### Cub Haunted 2026
 
-We just finished our first cub scout camp out. It was mid october and it was pretty cold at night and in the mornings, but Forest was super tough, and never complained about it once. We were the only ones from our pack that went, but we made friends with another pack, hung with them most of the day, and went to their camp fire.
+We just finished our first cub scout camp out. It was mid october and it was pretty cold at night and in the mornings, but Forest was super tough, and never complained about it once. We were the only ones from our pack that went, but we made friends with another pack, hung with them most of Saturday, and went to their camp fire.
 
 Among the activities were haunted house and trail, hay ride, smores, rock climbing, archery, BB shooting, pumpkin bowling, mini golf, fishing, crafts, and others.
 
-Overall we both had a really good time, and Forest got his first patch: which says "Cub Haunted 2026".
+Overall we both had a really good time, and Forest got his first patch: which says "Cub Haunted 2026" and depicts a pirate ship.
 
 ## Stated Values
 
@@ -97,19 +97,31 @@ To keep myself
 
 ### Pledge of Allegiance
 
-They also use the [Pledge of Allegience](https://en.wikipedia.org/wiki/Pledge_of_Allegiance) which is used far more broadly than the scouts. You can read it at that page and I won't repeat it here in my domain because I hate it. It is basically a United States nationalist poem [indoctrinated into public school children](../parochialschools/).
+They also use the [Pledge of Allegiance](https://en.wikipedia.org/wiki/Pledge_of_Allegiance) which is used far more broadly than just the scouts. You can read it at that page and I won't repeat it here in my domain because I hate it. It is basically a United States nationalist poem [indoctrinated into public school children](../parochialschools/).
 
 ## My Reflections on Their Values
 
-First of all, I respect the hell out of these organizations for actually attempting to explicitly identify their values and impart them to their members. So few people these days care about articulating their values and I suspect many people don't even really know their values.
+First of all, I respect the hell out of these organizations for actually attempting to explicitly identify their values and impart them to their members. So few people these days care about articulating their values and I suspect many people don't even really know their own values.
 
 ### Law
 
 I basically support the scout law and the list of values it includes. The only partial exceptions are `obedient` and `reverent`. The others I fully support.
 
-Regarding Obedience, I think it is appropriate in many situations, but it should not be taught as a top level value. When I've had employment in the past, I've usually found it appropriate to obey the orders of my various bosses or supervisors. But that is always subject first to my own primary values. If my boss told me to kill an innocent person, or defraud the public, I would not obey. I expect my kids to obey me most of the time, but if I tell them to do something that doesn't make sense or that they find legitimately objectionable, I encourage them to bring that to my attention. I also encourage them not to cry wolf so that I have the patience and presence of mind to continue listening to their objections. So while I think obedience is a reasonable heuristic, I do not consider it a value in and of itself.
+#### Obedience
 
-Regarding Reverence, because of the contexts in which I've heard it, I tend to think of the religious version. I have no problem with anyone being religious, and if they are, I expect them to be genuine and reverent in it. But I do not think that being religious is a good top-level value. Having looked it up, I realize that it can often just mean respect. I also have a complex history with that word, because growing up, I felt that adults often demanded respect at times when they were not deserving of respect. Today I would say that being respectful is a good default position and that you should respect others until they give you a reason not to.
+I think it is appropriate in many situations, but it should not be taught as a top level value. When I've had employment in the past, I've usually found it appropriate to obey the orders of my various bosses or supervisors. But that is always subject first to my own primary values. If my boss told me to kill an innocent person, or defraud the public, I would not obey. I expect my kids to obey me most of the time, but if I tell them to do something that doesn't make sense or that they find legitimately objectionable, I encourage them to bring that to my attention. I also encourage them not to cry wolf so that I have the patience and presence of mind to continue listening to their objections. So while I think obedience is a reasonable heuristic, I do not consider it a value in and of itself.
+
+#### Reverence
+
+Because of the contexts in which I've typically heard the word "reverence", I tend to think of the religious version. I have no problem with anyone being religious, and if they are, I expect them to be genuine and reverent in it. But I do not think that being religious is a good top-level value. Having looked it up, I realize that reverence can often just mean respect. I also have a complex relationship with the word "respect", because growing up, I found that adults often demanded respect at times when they were not deserving of it. Today I would say that being respectful is a good default position and that you should respect others until they give you a reason not to. You should not be unconditionally respectful because people often don't deserve it.
+
+#### Thriftiness
+
+I think being thrifty is great and I do my best to be thrifty. But I want to observe that the scouts sometimes get caught up in modern conveniences and trends at the expense of thriftiness. To give a specific example, at the Cub Haunted 2026 event we were fed four meals in the dining tent over the course of the weekend. At each of those meals, each person was given a packet of cutlery containing a plastic fork, a plastic spoon, a plastic knife, a napkin, salt and pepper in a paper envelope, and a paper napkin, all bundled together in a plastic wrapper.
+
+Most of the meals required only a fork. A few could benefit from a knife. Only one had a reasonable way to use a spoon. There was no way to return unused cutlery or wash used cutlery. Most people, over the course of the weekend threw four forks, four spoons, four knives, and four plastic wrappers into the landfill. That is obviously not thrifty. I would much prefer to see reusable metal cutlery washed between meals, or at least some effort to encourage guests to keep their cutlery and reuse it for subsequent meals.
+
+Maybe nobody else noticed. Were they mentally awake?
 
 ### Motto
 
@@ -119,13 +131,13 @@ I actually misremembered the motto as "be prepared". I don't know where I got th
 
 ### Oath
 
-I mostly support the oath, but When I practice it with Forest I skip the "to God and to my country" line. I discussed how I think religion is fine for some people earlier but is not a requirement to be a good person. And I like that the modern scouts interpret God pretty inclusively so that people of non-Christian faiths are still welcome.
+I mostly support the oath, but when I practice it with Forest I skip the "to God and to my country" line. I discussed how I think religion is fine for some people earlier but is not a requirement to be a good person. And I like that the modern scouts interpret God pretty inclusively so that people of non-Christian faiths are still welcome. I don't know how to make it inclusive of atheists like myself, but I'm not offended by it either.
 
-Regarding the country, "Scouting America" is definitely referring to the United States of America and I absolutely do not support that country in any way.
+Regarding the country, "Scouting America" is definitely referring to the United States of America and I absolutely do not support that country or believe I have any duty to it whatsoever.
 
 #### Morally Straight
 
-I used to interpret this to mean heterosexual. Of course I support gays and consider myself an ally, so I never supported that interpretation. But now I wonder if I misunderstood it. Today I interpret that line to mean being a moral person; following your moral code. And I fully support that interpretation.
+I used to interpret this to mean heterosexual. Of course I support gays and consider myself an ally, so I never supported that interpretation. But now I wonder if I misunderstood it. Today I interpret that line to mean being a moral person; following your moral code. Doing what's right in your best judgement. And I fully support that interpretation.
 
 ### Pledge of Allegiance
 
@@ -137,8 +149,8 @@ In terms of raising my kids, I've tried not to indoctrinate them in support of t
 
 I think that being "mentally awake" and "morally straight" as the oath requires is in direct contradiction to unconditionally pledging allegiance to any particular flag, especially the flag of the "united" states of america. I think anyone who is mentally awake and morally straight would not say that pledge.
 
-I also think that choosing not to say that pledge when there is a lot of social pressure to say it required bravery which is required by the scout law.
+I also think that choosing not to say that pledge when there is a lot of social pressure to say it requires bravery which is in the scout law.
 
-So my call to all scouts is to wake up mentally, straighten up morally, and be brave: Stop saying the pledge.
+So **my call to all scouts is to wake up mentally, straighten up morally, and be brave: Stop saying the pledge**.
 
 I had offered to be a den leader for Forest's den is cub scouts. But when I learned that I would be responsible for teaching the kids the pledge of allegiance, I knew I wasn't a good fit and withdrew my offer.
